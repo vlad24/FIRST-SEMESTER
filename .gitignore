@@ -1,0 +1,12 @@
+*.sdf
+*.sln
+*.vcxproj
+*.suo
+*.zip
+*.vcxproj.user
+*.vcxproj.filters
+*.tlog
+*.ini
+#
+additional/
+*/Debug/

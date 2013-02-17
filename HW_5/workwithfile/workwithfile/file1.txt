@@ -1,0 +1,8 @@
+int main()
+{
+//writing
+/* //heap */ int y = 24;
+cout << " //comment ";
+//trees
+"unuseful"
+}
